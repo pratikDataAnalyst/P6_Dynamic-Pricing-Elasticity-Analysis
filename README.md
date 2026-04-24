@@ -23,11 +23,13 @@ Analyze how price changes impact demand and revenue, and build an interactive pr
 
 ## 📊 Dashboard Preview
 
-![Overview](<img width="1167" height="656" alt="image" src="https://github.com/user-attachments/assets/8d23b78c-62e1-4413-b928-473dcabeb7a4" />
+![Overview]( <img width="1168" height="656" alt="OverView" src="https://github.com/user-attachments/assets/61f3aa05-dacb-4378-b569-a637454a4d79" />
 )
-![Analysis](<img width="1163" height="652" alt="image" src="https://github.com/user-attachments/assets/fcf2aaff-df8d-406e-aa51-9da322462b33" />
+![Analysis](<img width="1164" height="653" alt="Analysis" src="https://github.com/user-attachments/assets/c010efcf-5a29-45f6-a954-82b360fcbe67" />
+
 )
-![Simulator](<img width="1168" height="649" alt="image" src="https://github.com/user-attachments/assets/3e8717fe-6829-4afe-8ac0-dbad2ae1022d" />
+![Simulator](<img width="1314" height="781" alt="Simulator" src="https://github.com/user-attachments/assets/24963180-54a6-4248-9bdb-db6ba2342764" />
+
 )
 
 ---
